@@ -12,8 +12,6 @@ piHostname = 'pi.demo.pardot.com';
     else { window.addEventListener('load', async_load, false); }
 })();
 
-w3.includeHTML();
-
 (function ($) {
     "use strict";
 
